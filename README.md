@@ -2,8 +2,8 @@
 Clark L. Esperanzate
 
 ## Education
-- BS Information Technology
-  New Era University  
+- BS Information Technology<br>
+  New Era University<br>
   2025–Present
 
 ## Certifications
