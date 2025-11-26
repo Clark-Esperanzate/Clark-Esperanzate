@@ -1,5 +1,5 @@
 ## Name
-Clark Llobrera Esperanzate
+Clark L. Esperanzate
 
 ## Education
 - BS Information Technology
