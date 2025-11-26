@@ -3,6 +3,8 @@ Clark L. Esperanzate
 
 ## Education
 - BS Information Technology
+  New Era University  
+  2025–Present
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0281767730b44ee7a8764095231c15f0)
