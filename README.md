@@ -1,8 +1,16 @@
-Name
-Education
-Certifications
-Skillsets
+## Name
+Clark Llobrera Esperanzate
 
+## Education
+- BS Information Technology
+
+## Certifications
+- None yet
+
+## Skillsets
+- Java
+- SQL (DB2, MySQL)
+- HTML, CSS, JavaScript
 <!--
 **Clark-Esperanzate/Clark-Esperanzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
