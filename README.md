@@ -5,7 +5,8 @@ Clark Llobrera Esperanzate
 - BS Information Technology
 
 ## Certifications
-- None yet
+- SQL and Relational Databases 101
+  - https://courses.cognitiveclass.ai/certificates/0281767730b44ee7a8764095231c15f0
 
 ## Skillsets
 - Java
