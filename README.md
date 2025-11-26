@@ -2,8 +2,8 @@
 Clark L. Esperanzate
 
 ## Education
-- BS Information Technology<br>
-  New Era University<br>
+- BS Information Technology
+  New Era University  
   2025–Present
 
 ## Certifications
@@ -11,9 +11,9 @@ Clark L. Esperanzate
 
 
 ## Skillsets
-- Java
-- SQL (DB2, MySQL)
-- HTML, CSS, JavaScript
+- Programming: Java, HTML, CSS, JavaScript
+- Database: SQL
+- Tools: Eclipse, VS code, Lucidchart
 <!--
 **Clark-Esperanzate/Clark-Esperanzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
