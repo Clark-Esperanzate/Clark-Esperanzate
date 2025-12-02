@@ -1,5 +1,4 @@
-## Name
-Clark L. Esperanzate
+## Hello~, My name is Clark L. Esperanzate
 
 ## Education
 - BS Information Technology  
