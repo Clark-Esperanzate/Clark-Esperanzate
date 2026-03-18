@@ -14,7 +14,7 @@
 
 
 ## Skillsets
-- Programming: Java, HTML, CSS, JavaScript
+- Programming: Java, HTML, CSS, JavaScript, Beginner Python
 - Database: SQL
 - Tools: Eclipse, VS code, Lucidchart
 <!--
