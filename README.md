@@ -1,4 +1,15 @@
-## Hello~, My name is Clark L. Esperanzate
+<h1 align="center">Hi 👋, I'm Clark L. Esperanzate</h1>
+<h3 align="center">BS Information Technology Student | Aspiring Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Future+Full-Stack+Developer;Java+%7C+Python+%7C+SQL;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+## About me
+- 📚 I enjoy reading novels during my free time
+- 🎧 Music helps me stay focused and relaxed
+- 📸 Interested in learning about wildlife photography
+- 🌱 Currently improving my skills in Java, SQL, and Web Development
 
 ## Education
 - BS Information Technology  
@@ -14,10 +25,18 @@
 
 
 
-## Skillsets
-- Programming: Java, HTML, CSS, JavaScript, Python
-- Database: SQL
-- Tools: Eclipse, VS code, Lucidchart
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
+</p>
+
 <!--
 **Clark-Esperanzate/Clark-Esperanzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
