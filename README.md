@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Contact Me With
 - Gmail: clarkesperanzate06@gmail.com
 
 <!--
